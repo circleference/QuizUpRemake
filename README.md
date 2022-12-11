@@ -6,3 +6,9 @@ QuizUp was a multiplayer game where one user competes against another in seven r
 Due to the game being discontinued, i made a recreation in Scratch.
 
 The problem is that the file is over 5 MB, so i decided to upload it at Github.
+
+- Devlog
+
+v0.0.1-alpha - First version uploaded. Nothing else.
+
+v0.1.1-alpha - Fixed one wrong answer
