@@ -12,3 +12,5 @@ The problem is that the file is over 5 MB, so i decided to upload it at Github.
 v0.0.1-alpha - First version uploaded. Nothing else.
 
 v0.1.1-alpha - Fixed one wrong answer
+
+v0.3.1-alpha - Removed bug where you could answer questions when time ran out / Changed "Fun Fact" text to version display
