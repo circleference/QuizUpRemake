@@ -7,7 +7,7 @@ Due to the game being discontinued, i made a recreation in Scratch.
 
 The problem is that the file is over 5 MB, so i decided to upload it at Github.
 
-- Devlog
+# Devlog
 
 v0.0.1-alpha - First version uploaded. Nothing else.
 
