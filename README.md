@@ -13,4 +13,12 @@ v0.0.1-alpha - First version uploaded. Nothing else.
 
 v0.1.1-alpha - Fixed one wrong answer
 
-v0.3.1-alpha - Removed bug where you could answer questions when time ran out / Changed "Fun Fact" text to version display
+v0.3.1-alpha - Fixed bug where you could answer questions when time ran out / Changed "Fun Fact" text to version display
+
+(dev note: v0.3.1 is really just v0.2.2)
+
+v1.2.3-alpha
+
+- Added username changer (works only in packaged version)
+- Moved one minor update to patch in version number
+- Fixed bug where all incorrect answers turn red when answered
