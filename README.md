@@ -7,6 +7,26 @@ Due to the game being discontinued, i made a recreation in Scratch.
 
 The problem is that the file is over 5 MB, so i decided to upload it at Github.
 
+# How to package
+
+TurboWarp Packager is the packager i use, so i will show you how to compile this project properly.
+
+Go to https://packager.turbowarp.org/ and load the .sb3 file of the game.
+
+After that, download turbowarp-packager-settings.json
+
+Then, scroll down on the packager site and click "Import settings", and select the file you downloaded
+
+It is recommended to follow the steps below for a stable performance:
+
+- Keep Turbo mode off. (required)
+- Keep the framerate over 30. (recommended)
+- Keep High Quality Pen on. (recommended but not needed)
+- Keep size settings to default. (recommended)
+- Keep Special cloud features on. (required)
+- Keep "Start project automatically instead of showing a big green flag" off (recommended)
+- Keep "Enable Compiler" on. (recommended but not needed)
+
 # Devlog
 
 v0.0.1-alpha - First version uploaded. Nothing else.
