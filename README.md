@@ -50,3 +50,5 @@ v1.3.5-alpha
 - Added new ending screen
 - Changed WON to WIN, LOST to LOSE, and "TIE!" to "A TIE!"
 - Other bug patches which i am bored to put in
+
+v1.3.6-alpha - Changed repository from tvplayz to circleference
