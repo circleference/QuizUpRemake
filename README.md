@@ -44,3 +44,9 @@ v1.2.3-alpha
 - Added username changer (works only in packaged version)
 - Moved one minor update to patch in version number
 - Fixed bug where all incorrect answers turn red when answered
+
+v1.3.5-alpha
+
+- Added new ending screen
+- Changed WON to WIN, LOST to LOSE, and "TIE!" to "A TIE!"
+- Other bug patches which i am bored to put in
