@@ -49,4 +49,8 @@ v1.3.5-alpha
 - Changed WON to WIN, LOST to LOSE, and "TIE!" to "A TIE!"
 - Other bug patches which i am bored to put in
 
+(dev note: v0.3.5 is really just v0.4.5)
+
 v1.3.6-alpha - Changed repository from tvplayz to circleference
+
+v1.4.7-alpha - Moved one minor update to patch in version number / Lowered bot answer response delay
