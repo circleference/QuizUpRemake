@@ -60,3 +60,5 @@ v1.3.5-alpha
 v1.3.6-alpha - Changed repository from tvplayz to circleference
 
 v1.4.7-alpha - Moved one minor update to patch in version number / Lowered bot answer response delay
+
+v2.4.7-alpha - Added custom quizzes!
