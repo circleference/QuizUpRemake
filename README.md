@@ -27,6 +27,12 @@ It is recommended to follow the steps below for a stable performance:
 - Keep "Start project automatically instead of showing a big green flag" off (recommended)
 - Keep "Enable Compiler" on. (recommended but not needed)
 
+# QUSGBK
+
+circleference/QUSGBK
+
+To make your own QuizUp game
+
 # Devlog
 
 v0.0.1-alpha - First version uploaded. Nothing else.
