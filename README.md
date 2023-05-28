@@ -67,3 +67,8 @@ v1.3.6-alpha - Changed repository from tvplayz to circleference
 v1.4.7-alpha - Moved one minor update to patch in version number / Lowered bot answer response delay
 
 v2.4.7-alpha - Added custom quizzes!
+
+[UNRELEASED] v2.4.7-alpha-snapshot1
+
+- Added note in the avatar changer
+- My dumbass accidentally set "Change pen color" instead of "Change text color" in the SFE+ engine. Fixed that as well.
