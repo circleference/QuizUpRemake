@@ -72,3 +72,4 @@ v2.4.7-alpha - Added custom quizzes!
 
 - Added note in the avatar changer
 - My dumbass accidentally set "Change pen color" instead of "Change text color" in the SFE+ engine. Fixed that as well.
+- Clicking "Custom quiz" will no longer force you to enter a level code and can now be aborted by inputting "quit"
