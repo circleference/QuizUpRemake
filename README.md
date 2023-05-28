@@ -73,3 +73,7 @@ v2.4.7-alpha - Added custom quizzes!
 - Added note in the avatar changer
 - My dumbass accidentally set "Change pen color" instead of "Change text color" in the SFE+ engine. Fixed that as well.
 - Clicking "Custom quiz" will no longer force you to enter a level code and can now be aborted by inputting "quit"
+
+# Copyright notice
+I am not affiliated with Glu Mobile LLC, nor do i own the QuizUp logo, the sounds, which were both used in this game.
+This project also uses SFE+ which was created by the Scratch user @-Rex-, which due to the copyright license of UGC made content in Scratch, i am required to give appropiate credit.
