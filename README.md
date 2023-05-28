@@ -68,11 +68,12 @@ v1.4.7-alpha - Moved one minor update to patch in version number / Lowered bot a
 
 v2.4.7-alpha - Added custom quizzes!
 
-[UNRELEASED] v2.4.7-alpha-snapshot1
+v2.8.9-alpha
 
 - Added note in the avatar changer
 - My dumbass accidentally set "Change pen color" instead of "Change text color" in the SFE+ engine. Fixed that as well.
 - Clicking "Custom quiz" will no longer force you to enter a level code and can now be aborted by inputting "quit"
+- Changed answer UI design
 
 # Copyright notice
 I am not affiliated with Glu Mobile LLC, nor do i own the QuizUp logo, the sounds, which were both used in this game.
