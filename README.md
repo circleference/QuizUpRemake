@@ -7,10 +7,12 @@ Due to the game being discontinued, i made a recreation in Scratch.
 
 The problem is that the file is over 5 MB, so i decided to upload it at Github.
 
-# News [May 28 2023]
+# News
 
-The latest TurboWarp 1.7.1 update allows dozens of new possibilities, such as network connection, easier encryption, text to numbers for cloud engines, and other stuff!
+May 28 2023 - The latest TurboWarp 1.7.1 update allows dozens of new possibilities, such as network connection, easier encryption, text to numbers for cloud engines, and other stuff!
 So expect faster updates for QuizUpRemake!
+
+May 29 2023 - i just made a big oopsie in v2.8.9-alpha dont mind me uwu
 
 # How to package
 
