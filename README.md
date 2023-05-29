@@ -36,9 +36,9 @@ It is recommended to follow the steps below for a stable performance:
 
 # QUSGBK
 
-circleference/QUSGBK
+circleference/QUSTBK
 
-To make your own QuizUp game
+To make your own QuizUp topic
 
 # Devlog
 
