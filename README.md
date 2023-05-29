@@ -36,7 +36,7 @@ It is recommended to follow the steps below for a stable performance:
 
 # QUSGBK
 
-circleference/QUSTBK
+circleference/QURTB
 
 To make your own QuizUp topic
 
