@@ -44,7 +44,7 @@ To make your own QuizUp topic
 
 v0.0.1-alpha - First version uploaded. Nothing else.
 
-v0.1.1-alpha - Fixed one wrong answer
+v0.1.1-alpha - Fixed one wrong answer in the default Scratch quiz
 
 v0.3.1-alpha - Fixed bug where you could answer questions when time ran out / Changed "Fun Fact" text to version display
 
@@ -60,11 +60,11 @@ v1.3.5-alpha
 
 - Added new ending screen
 - Changed WON to WIN, LOST to LOSE, and "TIE!" to "A TIE!"
-- Other bug patches which i am bored to put in
+- Other bug patches which i am too lazy to put all in
 
 (dev note: v0.3.5 is really just v0.4.5)
 
-v1.3.6-alpha - Changed repository from tvplayz to circleference
+v1.3.6-alpha - Changed repository from tvplayz to circleference (does this even count as an update?)
 
 v1.4.7-alpha - Moved one minor update to patch in version number / Lowered bot answer response delay
 
@@ -76,6 +76,13 @@ v2.8.9-alpha
 - My dumbass accidentally set "Change pen color" instead of "Change text color" in the SFE+ engine. Fixed that as well.
 - Clicking "Custom quiz" will no longer force you to enter a level code and can now be aborted by inputting "quit"
 - Changed answer UI design
+
+v3.0.0-alpha
+
+- Updated so many things that i just named the version v3.0.0
+- Updated package number
+- Added new icons 
+- Fixed bugs
 
 # Copyright notice
 I am not affiliated with Glu Mobile LLC, nor do i own the QuizUp logo, the sounds, which were both used in this game.
