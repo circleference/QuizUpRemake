@@ -15,6 +15,7 @@ So expect faster updates for QuizUpRemake!
 May 29 2023 - i just made a big oopsie in v2.8.9-alpha dont mind me uwu
 
 June 28 2023 - the packaged version doesnt even work lol. also i hope i didnt accidentally type "turbowarp version 1.8.2" when the latest is 1.8.1
+               But good news, the next version is planned to have Singleplayer mode, followed by a few more updates before MULTIPLAYER!
 
 # How to package
 
