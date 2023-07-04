@@ -19,6 +19,8 @@ June 28 2023 - the packaged version doesnt even work lol. also i hope i didnt ac
 
 July 3 2023 - Mark my words. v4.0.0 will craze the audience. (get it? there is no audience)
 
+July 4 2023 - It is here! v4.0.0 is here, and persionally my favorite feature is that whenever there is a new update, it immediately warns you!
+
 # How to package
 
 TurboWarp Packager is the packager i use, so i will show you how to compile this project properly.
