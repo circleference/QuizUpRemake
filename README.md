@@ -97,6 +97,15 @@ v3.1.3-alpha
 
 - Fixed a big oopsie (i left a line detached)
 
+v4.0.0-alpha
+
+- Changed color scheme
+- Fixed some bugs
+- Added Singleplayer
+- New menu design
+- QURTB import
+- Update alert
+
 # Copyright notice
 I am not affiliated with Glu Mobile LLC, nor do i own the QuizUp logo, the sounds, which were both used in this game.
 This project also uses SFE+ which was created by the Scratch user @-Rex-, which due to the copyright license of UGC made content in Scratch, i am required to give appropiate credit.
