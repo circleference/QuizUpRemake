@@ -35,12 +35,12 @@ Then, scroll down on the packager site and click "Import settings", and select t
 It is recommended to follow the steps below for a stable performance:
 
 - Keep Turbo mode off. (required)
-- Keep the framerate over 30. (recommended)
-- Keep High Quality Pen on. (recommended but not needed)
+- Keep the framerate at 40. (recommended)
+- Keep High Quality Pen on. (optional)
 - Keep size settings to default. (recommended)
 - Keep Special cloud features on. (required)
 - Keep "Start project automatically instead of showing a big green flag" off (recommended)
-- Keep "Enable Compiler" on. (recommended but not needed)
+- Keep "Enable Compiler" on. (optional)
 
 # QUSGBK
 
