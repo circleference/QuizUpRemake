@@ -9,9 +9,6 @@ The problem is that the file is over 5 MB, so i decided to upload it at Github.
 
 # News
 
-May 28 2023 - The latest TurboWarp 1.7.1 update allows dozens of new possibilities, such as network connection, easier encryption, text to numbers for cloud engines, and other stuff!
-So expect faster updates for QuizUpRemake!
-
 May 29 2023 - i just made a big oopsie in v2.8.9-alpha dont mind me uwu
 
 June 28 2023 - the packaged version doesnt even work lol. also i hope i didnt accidentally type "turbowarp version 1.8.2" when the latest is 1.8.1
@@ -20,6 +17,10 @@ June 28 2023 - the packaged version doesnt even work lol. also i hope i didnt ac
 July 3 2023 - Mark my words. v4.0.0 will craze the audience. (get it? there is no audience)
 
 July 4 2023 - It is here! v4.0.0 is here, and persionally my favorite feature is that whenever there is a new update, it immediately warns you!
+
+July 9 2024 - Procastination hit hard. Really hard. I'm sorry if I made anyone expect faster updates for the game, but the only problem is that
+              it's really hard to get myself to actually make use of Turbowarp's updated extensions because of procastination issues. I promise
+              I'm still alive.
 
 # How to package
 
