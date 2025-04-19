@@ -114,5 +114,5 @@ v4.0.1-alpha - Fixed a bug where the Update button would show even if there was 
 v4.0.2-alpha - Fixed a bug where exiting out of the avatar menu would make a prompt
 
 # Copyright notice
-I am not affiliated with Glu Mobile LLC, nor do i own the QuizUp logo, the sounds, which were both used in this game.
+I am not affiliated with Glu Mobile LLC, nor do i own QuizUp or any of the assets in the app which were used in this project.
 This project also uses SFE+ which was created by the Scratch user @-Rex-, which due to the copyright license of UGC made content in Scratch, i am required to give appropiate credit.
